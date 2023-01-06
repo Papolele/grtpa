@@ -1,0 +1,6 @@
+﻿  memscan64.cpp
+c:\cpp\visual studio\gabb\memscan64\memscan64.cpp(177): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+  Trwa generowanie kodu
+  All 661 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  memscan64.vcxproj -> C:\Cpp\Visual Studio\GABB\x64\Release\memscan64.exe
